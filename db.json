@@ -1,16 +1,3 @@
 {
-  "employees": [
-    {
-      "id": "1",
-      "username": "anu",
-      "email": "alice@example.com",
-      "status": "active"
-    },
-    {
-      "id": "9507",
-      "username": "theertha",
-      "email": "theerthauk@gmail.com",
-      "status": "inactive"
-    }
-  ]
+  "employees": []
 }
